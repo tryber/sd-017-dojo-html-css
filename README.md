@@ -7,7 +7,7 @@ Iremos desenvolver um layout de um login
 ## 🎁 Objetivo do dojo
 📌 Esse dojo, tem como objetivo de criar um tela de login. Com o seguinte layout:
 
-<img src="https://github.com/betrybe/dojo-html-css-rubric/blob/main/img/layout.png" widt="750" />
+<img src="https://github.com/tryber/sd-017-dojo-html-css/blob/main/img/layout-new.png" widt="750" />
 
 ### 📋 Explicação
 Já existe, o ```reset.css``` e ``` index.html ```
