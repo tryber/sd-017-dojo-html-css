@@ -2,7 +2,7 @@
 Iremos desenvolver um layout de um login
 
 ## Fazer o clone do repositório
-```git@github.com:betrybe/dojo-html-css-rubric.git```
+```git@github.com:tryber/sd-017-dojo-html-css.git```
 
 ## 🎁 Objetivo do dojo
 📌 Esse dojo, tem como objetivo de criar um tela de login. Com o seguinte layout:
