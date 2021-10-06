@@ -20,6 +20,22 @@ No arquivo ``` index.html ```, já está sendo importando os seguinte css
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;1,400&display=swap" rel="stylesheet">
 ```
 
+para fazer esse exercicios, você vai precisar usar um formulário:
+
+``` 
+    <form>
+    </form>
+```
+
+A tag form, diz para o navegador que estamos criando um formulário. Para fazer inputs nesse formulário vamos usar a tag input
+
+``` 
+    <form>
+        <input type="text" />
+    </form>
+```   
+
+
 ## 🚀 Bora, vamos começar?
 🔩 Muito bom, vamos começar a desenvolver o nosso layout 😀
 
