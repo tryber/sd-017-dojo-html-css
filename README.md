@@ -42,7 +42,7 @@ Para o texto aparecer no input, iremos colocar o atributo placeholder na tag inp
 
 Você deve ter percebido, que a tag ```<input>``` tem um atributo chamado ```type```. Esse atributo serve para indicar o tipo de dado que devemos digitar.
 
-Meu primeiro formulário <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Forms/Your_first_form"  target="_blank"> teste</a>
+Meu primeiro formulário <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Forms/Your_first_form" target="_blank"> teste</a>
 
 
 ## 🚀 Bora, vamos começar?
