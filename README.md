@@ -21,19 +21,22 @@ No arquivo ``` index.html ```, já está sendo importando os seguinte css
 ```
 
 para fazer esse exercicios, você vai precisar usar um formulário:
-
 ``` 
     <form>
     </form>
 ```
 
 A tag form, diz para o navegador que estamos criando um formulário. Para fazer inputs nesse formulário vamos usar a tag input
-
 ``` 
     <form>
         <input type="text" />
     </form>
 ```   
+
+Para o texto aparecer no input, iremos colocar o atributo placeholder na tag input
+``` 
+    placeholder="Digite o CPF"
+``` 
 
 
 ## 🚀 Bora, vamos começar?
