@@ -20,7 +20,7 @@ No arquivo ``` index.html ```, já está sendo importando os seguinte css
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;1,400&display=swap" rel="stylesheet">
 ```
 
-para fazer esse exercicios, você vai precisar usar um formulário:
+para fazer esse exercicio, você vai precisar usar um formulário:
 ``` 
     <form>
     </form>
@@ -35,8 +35,14 @@ A tag form, diz para o navegador que estamos criando um formulário. Para fazer 
 
 Para o texto aparecer no input, iremos colocar o atributo placeholder na tag input
 ``` 
-    placeholder="Digite o CPF"
+    <form>
+        <input type="text" placeholder="Digite seu CPF" />
+    </form>
 ``` 
+
+Você deve ter percebido, que a tag ```<input>``` tem um atributo chamado ```type```. Esse atributo serve para indicar o tipo de dado que devemos digitar.
+
+Meu primeiro formulário <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Forms/Your_first_form"  target="_blank"> teste</a>
 
 
 ## 🚀 Bora, vamos começar?
