@@ -20,20 +20,20 @@ No arquivo ``` index.html ```, já está sendo importando os seguinte css
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;1,400&display=swap" rel="stylesheet">
 ```
 
-para fazer esse exercicio, você vai precisar usar um formulário:
+Para fazer esse exercicio, você vai precisar usar um formulário:
 ``` 
     <form>
     </form>
 ```
 
-A tag form, diz para o navegador que estamos criando um formulário. Para fazer inputs nesse formulário vamos usar a tag input
+A tag ```form```, diz para o navegador que estamos criando um formulário. Para fazer inputs nesse formulário vamos usar a tag ``` <input> ```
 ``` 
     <form>
         <input type="text" />
     </form>
 ```   
 
-Para o texto aparecer no input, iremos colocar o atributo placeholder na tag input
+Para o texto aparecer no ``` <input> ```, iremos colocar o atributo ```placeholder``` na tag ``` <input> ```
 ``` 
     <form>
         <input type="text" placeholder="Digite seu CPF" />
