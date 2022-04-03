@@ -11,6 +11,8 @@ Iremos desenvolver um layout de um login
 
 📌 Link do layout pronto, para visualização
 <a href="https://giovannirwp.github.io/html-css-layout/" target="_blank">Layout pronto, para visualização</a>
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
+
 
 ### 📋 Explicação
 Já existe, o ```reset.css``` e ``` index.html ```
