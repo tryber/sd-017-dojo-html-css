@@ -9,6 +9,9 @@ Iremos desenvolver um layout de um login
 
 <img src="https://github.com/tryber/sd-017-dojo-html-css/blob/main/img/layout-new.png" widt="750" />
 
+📌 Link do layout pronto, para visualização
+https://giovannirwp.github.io/html-css-layout/
+
 ### 📋 Explicação
 Já existe, o ```reset.css``` e ``` index.html ```
 Essa estrutura, já existe para ajudar no desenvolvimento. Isso seguinifica que não vai precisar criar novos arquivos.
