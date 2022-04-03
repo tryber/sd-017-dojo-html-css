@@ -10,7 +10,7 @@ Iremos desenvolver um layout de um login
 <img src="https://github.com/tryber/sd-017-dojo-html-css/blob/main/img/layout-new.png" widt="750" />
 
 📌 Link do layout pronto, para visualização
-https://giovannirwp.github.io/html-css-layout/
+<a href="https://giovannirwp.github.io/html-css-layout/">Layout pronto, para visualização</a>
 
 ### 📋 Explicação
 Já existe, o ```reset.css``` e ``` index.html ```
